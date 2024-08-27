@@ -1,0 +1,27 @@
+.Busca {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.Busca-input {
+  width:100%;
+  padding: 10px;
+  border-radius: 25px;
+  border: 1px solid #ccc;
+  outline: none;
+}
+
+.Busca-button {
+  background: none;
+  border: none;
+  margin-left: -50px;
+  cursor: pointer;
+}
+
+.Busca-icon {
+  width: 20px;
+  height: 20px;
+  
+}

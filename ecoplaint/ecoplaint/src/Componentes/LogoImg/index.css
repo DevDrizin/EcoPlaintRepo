@@ -1,0 +1,28 @@
+.logo{
+    height: 15vw;
+    padding-left: 9vw;
+    margin-top: -9vw;
+
+
+}
+.c1{
+
+    background-color: #fdd340;
+    border-radius: 50%;
+    width: 25vw;
+    height: 25vw;
+    margin-left: -7vw;
+    margin-top: -7vw;
+}
+
+.c2{ 
+
+    background-color:#fdde91;
+    height: 20vw;
+    width: 20vw;
+    border-radius: 50%;
+    margin-left: -3vw;
+    margin-top: 15vw;
+    opacity: 0.7;
+
+}
