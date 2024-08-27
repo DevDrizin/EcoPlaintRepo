@@ -6,7 +6,7 @@ export default function NavBar(){
     <div> 
       <nav className="nav">
         <ul>
-          <li>INICIO</li>
+          <li>INÍCIO</li>
           <li>REGISTROS</li>
           <li>RELATÓRIOS</li>
           <li>CADASTRO</li>

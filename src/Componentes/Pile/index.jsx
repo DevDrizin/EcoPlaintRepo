@@ -2,6 +2,7 @@ import './index.css'
 import NavBar from '../NavBar'
 import Busca from '../Busca'
 
+
 export default function Pile(){
 
     return(
@@ -10,6 +11,7 @@ export default function Pile(){
 
             <NavBar/>
             <Busca/>
+        
             
         </div>
 

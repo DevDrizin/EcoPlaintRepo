@@ -7,10 +7,13 @@
 
 .Busca-input {
   width:100%;
-  padding: 10px;
-  border-radius: 25px;
+  padding: 13px;
+  border-radius: 14px;
   border: 1px solid #ccc;
   outline: none;
+  padding-left: 30px;
+  border-style: none;
+  background-color: #EFEFEF;
 }
 
 .Busca-button {
@@ -18,10 +21,14 @@
   border: none;
   margin-left: -50px;
   cursor: pointer;
+
 }
 
 .Busca-icon {
   width: 20px;
   height: 20px;
   
-}
+  }
+
+
+ 
