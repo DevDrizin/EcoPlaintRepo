@@ -1,9 +1,6 @@
 import React from 'react';
 import Header from './Componentes/Header';
-import CentralImg from './Componentes/CentralImg';
-import Button from './Componentes/Button';
-import TextoInicio from './Componentes/TextoInicio.jsx';
-
+import Centralizador from './Componentes/Centralizador';
 
 function App() {
   return (
@@ -11,10 +8,7 @@ function App() {
   <div>
 
     <Header/>
-    <CentralImg/>
-    <TextoInicio/>
-    <Button/>
-  
+    <Centralizador/>
 
   </div>    
   
